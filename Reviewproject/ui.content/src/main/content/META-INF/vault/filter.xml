@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/Reviewproject" mode="merge"/>
+    <filter root="/content/Reviewproject" mode="merge"/>
+    <filter root="/content/dam/Reviewproject" mode="merge"/>
+</workspaceFilter>
